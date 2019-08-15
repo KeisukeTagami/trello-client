@@ -1,4 +1,4 @@
-name:           trello
+name:           trello-client
 version:        0.1.0.0
 synopsis:       Auto-generated trello API Client
 description:    .
